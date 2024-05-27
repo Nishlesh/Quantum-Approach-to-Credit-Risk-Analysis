@@ -36,7 +36,7 @@ Contents for subsequent weeks will be shared later
 - SI527 reading files
 
 ## Contributions
-Main Contributors for this projects are Shreyas Kulkarni and Nishlesh Goel
+Main Contributors for this projects are Shreyas Kulkarni and Nishlesh Goel.
 Contributions to this project are welcome. If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
 
 ## License
