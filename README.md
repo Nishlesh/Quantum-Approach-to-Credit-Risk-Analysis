@@ -29,34 +29,11 @@ In the subsequent weeks, we will delve into the use of quantum methods for optio
 
 Contents for subsequent weeks will be shared later
 
-## Getting Started
-
-To get started with the materials and code in this repository, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/option-pricing-quantum-methods.git
-    ```
-2. **Navigate to the repository directory**:
-    ```bash
-    cd option-pricing-quantum-methods
-    ```
-3. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Open the Jupyter Notebook**:
-    ```bash
-    jupyter notebook Quantum_Speedups_in_Finance.ipynb
-    ```
-
 ## Repository Structure
 
 - `README.md`: This file, providing an overview of the project.
-- `Quantum_Speedups_in_Finance.ipynb`: The main Jupyter Notebook containing the quantum methods for option pricing.
-- `requirements.txt`: A file listing the required dependencies to run the notebook.
-- `src/`: Directory containing the source code for the project.
-- `data/`: Directory for storing any datasets used in the project.
+- `Quantum_Approach_for_Financial_Derivatives_Pricing.ipynb`: The main Jupyter Notebook containing the quantum methods for option pricing.
+- SI527 reading files
 
 ## Contributions
 Main Contributors for this projects are Shreyas Kulkarni and Nishlesh Goel
