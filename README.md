@@ -24,7 +24,7 @@ In this project, we will cover:
 - Resources:
   - [Investopedia: Credit Risk](https://www.investopedia.com/terms/c/creditrisk.asp)
   - [Wikipedia: Credit Risk](https://en.wikipedia.org/wiki/Credit_risk)
-  - [Credit Risk Analysis PDF](./resources/Credit_Risk_Analysis.pdf)
+  - [Credit Risk Metrics PDF](https://www.msci.com/documents/10199/93396227-d449-4229-9143-24a94dab122f)) Only chapter 1
 
 ### Week 3-4: Basics of Quantum Computing
 - Learn fundamental quantum computing concepts.
