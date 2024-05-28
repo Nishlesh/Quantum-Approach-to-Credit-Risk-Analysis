@@ -64,12 +64,5 @@ If you have any questions or need further information, feel free to contact the 
 
 ---
 
-### Resources
-
-For additional reading and understanding, you can refer to the following PDFs and online resources included in this repository:
-
-- [Credit Risk Analysis PDF](./resources/Credit_Risk_Analysis.pdf)
-- [Quantum Computing Basics PDF](./resources/Quantum_Computing_Basics.pdf)
-- [Quantum Algorithms for Credit Risk PDF](./resources/Quantum_Algorithms_for_Credit_Risk.pdf)
 
 
