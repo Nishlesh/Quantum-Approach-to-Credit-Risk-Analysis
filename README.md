@@ -31,15 +31,15 @@ In this project, we will cover:
 - Learn fundamental quantum computing concepts.
 - Understand quantum bits (qubits), superposition, and entanglement.
 - Resources:
-  - [IBM Quantum Computing](https://quantum-computing.ibm.com/)
   - [Qiskit Textbook](https://qiskit.org/textbook/)
-  - [Quantum Computing Basics PDF](./resources/Quantum_Computing_Basics.pdf)
+  - [Quantum Computing Basics PDF](https://arxiv.org/pdf/1807.03890)
 
 ### Week 5-6: Quantum Algorithms for Credit Risk
 - Study specific quantum algorithms that can be applied to credit risk analysis.
 - Resources:
+  - [Quantum Computing for Finance](https://www.research.ibm.com/quantum-computing/finance/)
   - [Quantum Algorithms for Credit Risk Analysis](https://arxiv.org/abs/1807.03890)
-  - [Quantum Algorithms PDF](https://arxiv.org/pdf/1807.03890)
+  - [Quantum Algorithms PDF](./resources/Quantum_Algorithms_for_Credit_Risk.pdf)
 
 ### Week 7-8: Implementation and Experimentation
 - Implement quantum algorithms for credit risk analysis using the provided Jupyter Notebook.
